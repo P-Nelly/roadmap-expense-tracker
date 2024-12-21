@@ -207,7 +207,7 @@ Install roadmap-expense-tracker using one of the following methods:
 
 ##  License
 
-This project is protected under the [MIT](https://choosealicense.com/licenses/mit/) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/mit/) file.
+This project is protected under the [MIT](LICENSE) License. For more details, refer to the [LICENSE](LICENSE) file.
 
 ---
 
