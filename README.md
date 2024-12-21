@@ -209,6 +209,6 @@ This project is protected under the [MIT](LICENSE) License. For more details, re
 
 - Thanks to the Python community for the excellent libraries
 - Inspired by the need for a simple, efficient expense tracking solution
-- Built as part of a learning roadmap project
+- Built as part of a learning roadmap project: https://roadmap.sh/projects/expense-tracker
 
 --- 
