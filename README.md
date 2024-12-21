@@ -28,7 +28,6 @@
   - [ Prerequisites](#prerequisites)
   - [ Installation](#installation)
   - [ Usage](#usage)
-  - [ Testing](#testing)
 - [ Project Roadmap](#project-roadmap)
 - [ Contributing](#contributing)
 - [ License](#license)
@@ -141,11 +140,6 @@ Install roadmap-expense-tracker using one of the following methods:
 
 # Update an expense
 ❯ python main.py update --id 1 --amount 75.00 --description "Updated description"
-```
-
-###  Testing
-```sh
-❯ python -m unittest discover tests
 ```
 
 ---
