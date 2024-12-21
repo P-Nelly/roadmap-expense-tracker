@@ -5,7 +5,7 @@
 	<em><code>❯ A simple and efficient command-line expense tracking application built with Python</code></em>
 </p>
 <p align="left">
-	<img src="https://img.shields.io/github/license/P-Nelly/roadmap-expense-tracker?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/badge/license-MIT-0080ff?style=default&logo=opensourceinitiative&logoColor=white" alt="MIT License">
 	<img src="https://img.shields.io/github/last-commit/P-Nelly/roadmap-expense-tracker?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/P-Nelly/roadmap-expense-tracker?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/P-Nelly/roadmap-expense-tracker?style=default&color=0080ff" alt="repo-language-count">
